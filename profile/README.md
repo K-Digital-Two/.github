@@ -1,6 +1,6 @@
 
 
-## 💛 S PLAYFORM PJT BY NANUM
+## 💛 BIGDATA PJT BY JKM
 
 ---
 
@@ -69,16 +69,16 @@
 
 ---
 
-- **이정민** \- _backend -_ [fineman999](https://github.com/fineman999)
-  - [dan-mi@kakao.com](mailto:33cks1423@naver.com)
-- **금민경** \- _frontend/data -_ [ads0070](https://github.com/ads0070)
-  - [mkm6192@gmail.com](mailto:gch05610@gmail.com)
-- **최정인** \- _data -_ [Mins00oo](https://github.com/Mins00oo)
-  - [vanessaj.choi@gmail.com](mailto:alstn7223@gmail.com)
-- **변혁** \- _backend -_ [chyg-ai](https://github.com/chyg-ai)
-  - [uiiunm@gmail.com](mailto:maxelto123@gmail.com)
-- **이창현** \- _frontend -_ [hoho](https://github.com/hojeong33)
-  - [ckdgus5262@gmail.com](mailto:jhj20071@gmail.com)
+- **이정민** \- _backend -_ [danmiee](https://github.com/danmiee)
+  - [dan-mi@kakao.com](mailto:dan-mi@kakao.com)
+- **금민경** \- _frontend/data -_ [min0312](https://github.com/min0312)
+  - [mkm6192@gmail.com](mailto:)
+- **최정인** \- _data -_ [Choi-09](https://github.com/Choi-09)
+  - [vanessaj.choi@gmail.com](mailto:vanessaj.choi@gmail.com)
+- **변혁** \- _backend -_ [uiiunm](https://github.com/uiiunm)
+  - [uiiunm@gmail.com](mailto:uiiunm@gmail.com)
+- **이창현** \- _frontend -_ [ckdtns5262](https://github.com/ckdtns5262)
+  - [ckdgus5262@gmail.com](mailto:ckdgus5262@gmail.com)
   
 <br/>
 
@@ -86,16 +86,15 @@
 
 ---
 - Collaboration Tools
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion" /> <img src="https://img.shields.io/badge/Miro-yellow?style=flat-square&logo=Miro&logoColor=000000" /> <img src="https://img.shields.io/badge/ Google Sheets-34A853?style=flat-square&logo=Google Sheets&logoColor=ffffff" /> 
 
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion" /> <img src="https://img.shields.io/badge/Miro-yellow?style=flat-square&logo=Miro&logoColor=000000" /> <img src="https://img.shields.io/badge/ Google Sheets-34A853?style=flat-square&logo=Google Sheets&logoColor=ffffff" /> 
 - FrontEnd
+<img src="https://img.shields.io/badge/ Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/> <img src="https://img.shields.io/badge/recoil-764ABC?style=flat-square&logo=react&logoColor=ffffff"/>
 
-<img src="https://img.shields.io/badge/ Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=ffffff" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/> <img src="https://img.shields.io/badge/recoil-764ABC?style=flat-square&logo=react&logoColor=ffffff"/>
 - BackEnd
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=ffffff" />
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Redis-DC282D?style=flat-square&logo=Redis&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch" /> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=ffffff" />
 - Devtools
-
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=Amazon API Gateway&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=000000" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=ffffff" />
 
 
