@@ -131,7 +131,6 @@
 4. recoil : 0.7.5
 5. mui : 5.10.8
 6. Visual Studio : 1.71.0
-
 ```
 
 #### BackEnd 주요 버전
@@ -146,6 +145,13 @@
 8. JAVA: 11
 9. 기타 상세 버전 정보
     - SpringBoot : build 도구 gradle 7.5
+```
+
+#### DataBase 주요 버전
+```cmd
+1. Python : 3.8.0
+2. Tensorflow : 2.9.0
+3. MySQL : 8.0.31
 ```
 
 <br/>
