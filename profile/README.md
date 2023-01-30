@@ -61,7 +61,7 @@
 4. [ER Diagram](#**_🔗_**-4.-ER-Diagram)
 5. [서비스 소개](#🎞-서비스-소개)
 6. [Git Branch](#***🌿***-Git-Branch)
-7. [Commit 규칙](#✔-Commit-규칙)
+7. [Git 규칙](#✔-Git-규칙)
 8. [시작하기](#✔-시작하기)
 
 <br/>
@@ -181,17 +181,16 @@
 
 <br/>
 
----
+##
 
 #### 2. 서비스 소개 영상
-
-##
 
 [![NANUM 소개 영상](http://img.youtube.com/vi/fQhgvCP8YEs/0.jpg)](https://youtu.be/fQhgvCP8YEs)
 
 ##
 
 #### 3. 서비스 시연 영상
+
 [![NANUM 시연 영상](http://img.youtube.com/vi/1MCGtIU5ihI/0.jpg)](https://www.youtube.com/watch?v=1MCGtIU5ihI)
 
 <br/>
@@ -216,9 +215,11 @@
 	
 ---
 
-### ✔ 7. Commit 규칙
+### ✔ 7. Git 규칙
 
 ##
+	
+#### 1. Commit 규칙
 
 > ✨ 형태 : git commit -m '#[깃이슈번호] [git 컨벤션]: [작업내용]'
 >
@@ -232,11 +233,9 @@
 
 <br/>
 	
----
-	
-###  **✔  Git 컨벤션**
-
 ##
+	
+#### 2. Git 컨벤션**
 
 - feat : 새로운 기능
 - fix : 버그 수정
@@ -248,11 +247,9 @@
 
 <br/>
 	
----
-	
-###  **✔  8. 네이밍 규칙**
-
 ##
+	
+####  3. 네이밍 규칙**
 
 - 변수 함수: camelCalse
 - 클래스/컴포넌트/인터페이스: PascalCase
@@ -266,7 +263,7 @@
 			
 ---		
 	
-### ✔ 시작하기
+### ✔ 8. 시작하기
 
 ##
 
