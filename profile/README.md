@@ -45,6 +45,7 @@
 -  2023.01.11 ~ 2023.02.09 (일/시간)
 - [Github - FrontEnd](https://github.com/K-Digital-Two/JKM1-FE)
 - [Github - BackEnd](https://github.com/K-Digital-Two/JKM1-BE)
+- [Github - DataAnalysis](https://github.com/K-Digital-Two/JKM1-DA)
 - [Notion](https://www.notion.so/jm61229/dba2917f8a004c1e8fa25974ecc31ca8)
 
   </br></br>
@@ -97,6 +98,8 @@
 - Devtools
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=Amazon API Gateway&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=000000" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=ffffff" />
 
+- DataAnalysis
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> 
 
 
  ---
@@ -117,7 +120,8 @@
 ### **_🔗_** 4. ER Diagram
 
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/603dc3d6-6ac2-480c-a8ce-082791d1fc86/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T053854Z&X-Amz-Expires=86400&X-Amz-Signature=897b2f7c17534171ecc7d0309921fd2655ea065b89655e050a9bdddf720c51ab&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" alt="NANUM" width="number" />
+  <img src = https://user-images.githubusercontent.com/51871037/215454107-fdbf9603-c690-4096-aaf3-cc573afb7cf8.png>
+
   
 ###  🎞 3. 서비스 소개 
  
@@ -147,7 +151,7 @@
     - SpringBoot : build 도구 gradle 7.5
 ```
 
-#### DataBase 주요 버전
+#### DataAnalysis 주요 버전
 ```cmd
 1. Python : 3.8.0
 2. Tensorflow : 2.9.0
