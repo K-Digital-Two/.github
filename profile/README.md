@@ -8,6 +8,8 @@
   <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6060bdc-4567-487e-bf99-8a9db0302a12/notion.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221106T090934Z&X-Amz-Expires=86400&X-Amz-Signature=a4b66cdcec44cacab245c8d60ea0e110a84704fe4bd1e406fa662b30782eb5ec&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22notion.png%22&x-id=GetObject" alt="NANUM" width="number" />
 </p>
 
+<br/>
+
 ---
 
 ### 한 줄 소개
@@ -45,6 +47,8 @@
 - [Github - DataAnalysis](https://github.com/K-Digital-Two/JKM1-DA)
 - [Notion](https://www.notion.so/jm61229/dba2917f8a004c1e8fa25974ecc31ca8)
 
+<br/>
+
 ---
 
 ### **_📌_** 차례
@@ -59,6 +63,8 @@
 6. [Git Branch](#***🌿***-Git-Branch)
 7. [Commit 규칙](#✔-Commit-규칙)
 8. [시작하기](#✔-시작하기)
+
+<br/>
 
 ---
 
@@ -76,7 +82,9 @@
   - [uiiunm@gmail.com](mailto:uiiunm@gmail.com)
 - **이창현** \- _frontend -_ [ckdtns5262](https://github.com/ckdtns5262)
   - [ckdgus5262@gmail.com](mailto:ckdgus5262@gmail.com)
-  
+ 
+<br/>
+ 
 ---
 
 ### **_⚙_** 2. 주요 기술 스택
@@ -98,6 +106,8 @@
 - DataAnalysis
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> 
 
+<br/>
+
 ---
  
 ### **_🔨_** 3. 아키텍쳐
@@ -116,6 +126,8 @@
   <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ae5e5767-3459-4653-961f-1430a4762f9a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T053727Z&X-Amz-Expires=86400&X-Amz-Signature=6d32621f9a228eab9e84c824bc24c67d9b51a61bdcac6d7ae0fae702e1fb75a2&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" alt="NANUM" width="number" />
 </p>
 
+<br/>
+
 ---
 
 ### **_🔗_** 4. ER Diagram
@@ -124,6 +136,8 @@
 
 <p align="center">
   <img src = https://user-images.githubusercontent.com/51871037/215456764-67b5d443-719e-434c-80ce-37d0c3a31dae.png> </p>
+
+<br/>
 
 ---
 
@@ -165,6 +179,8 @@
 3. MySQL : 8.0.31
 ```
 
+<br/>
+
 ---
 
 #### 2. 서비스 소개 영상
@@ -177,6 +193,8 @@
 
 #### 3. 서비스 시연 영상
 [![NANUM 시연 영상](http://img.youtube.com/vi/1MCGtIU5ihI/0.jpg)](https://www.youtube.com/watch?v=1MCGtIU5ihI)
+
+<br/>
 
 ---
 
@@ -194,6 +212,8 @@
 
 - `feature/<BE/FE>/<feature>` : 개별 개발 branch
 
+<br/>
+	
 ---
 
 ### ✔ Commit 규칙
@@ -210,8 +230,10 @@
 
 - git commit -m '#[깃이슈번호] docs: 리드미 수정'
 
+<br/>
+	
 ---
-
+	
 ###  **✔  Git 컨벤션**
 
 ##
@@ -224,22 +246,26 @@
 - test : 테스트 추가, 테스트 리팩토링
 - chore: 빌드 업무 수정, 패키지 매니지 수정
 
+<br/>
+	
 ---
-
+	
 ###  **✔  네이밍 규칙**
 
 ##
 
 - 변수 함수: camelCalse
 - 클래스/컴포넌트/인터페이스: PascalCase
-- 메소드 적용 예시
-		- C : createXXX ex) creatOrders
-		- R : retrieveXXX ex) retrieveOrders
-		- U : updateXXX ex) updateOrder
-		- D : deleteXXX ex) deleteOrder
-		
----		
+- 메소드 적용 예시 <br/>
+		- C : createXXX ex) creatOrders <br/>
+		- R : retrieveXXX ex) retrieveOrders<br/>
+		- U : updateXXX ex) updateOrder<br/>
+		- D : deleteXXX ex) deleteOrder<br/>
 
+<br/>
+			
+---		
+	
 ### ✔ 시작하기
 
 ##
@@ -253,4 +279,3 @@ $ build/libs/[서비스명].jar -jar app.jar
 $ npm install
 $ npm start
 ```
-
