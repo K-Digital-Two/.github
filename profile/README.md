@@ -137,8 +137,7 @@
 
 ##
 
-<p align="center">
-  < img src = https://user-images.githubusercontent.com/51871037/218688756-2d416071-57fe-4810-8ad5-9890a9fac4c6.png> </p>
+<p align="center"> <img src = https://user-images.githubusercontent.com/51871037/218688756-2d416071-57fe-4810-8ad5-9890a9fac4c6> </p>
 
 
 <br/>
