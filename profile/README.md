@@ -5,7 +5,7 @@
 ### ShipTraffic Live - 선박도착시간 예측 서비스
 
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6060bdc-4567-487e-bf99-8a9db0302a12/notion.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221106T090934Z&X-Amz-Expires=86400&X-Amz-Signature=a4b66cdcec44cacab245c8d60ea0e110a84704fe4bd1e406fa662b30782eb5ec&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22notion.png%22&x-id=GetObject" alt="NANUM" width="number" />
+  <img src="https://user-images.githubusercontent.com/109561152/218896659-e4cd5acd-e873-482e-acd4-c21cac6774b5.png" />
 </p>
 
 <br/>
@@ -98,13 +98,10 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion" /> <img src="https://img.shields.io/badge/Miro-yellow?style=flat-square&logo=Miro&logoColor=000000" /> <img src="https://img.shields.io/badge/ Google Sheets-34A853?style=flat-square&logo=Google Sheets&logoColor=ffffff" /> 
 
 - FrontEnd
-<img src="https://img.shields.io/badge/ Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/> <img src="https://img.shields.io/badge/recoil-764ABC?style=flat-square&logo=react&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/ Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff"/>
 
 - BackEnd
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=ffffff" />
-
-- Devtools
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=Amazon API Gateway&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=000000" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=ffffff" />
 
 - DataAnalysis
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/> 
@@ -113,20 +110,21 @@
 
 ---
  
-### **_🔨_** 3. 아키텍쳐
+### **_🔨_** 3. 시스템 구성도
 
 ##
 
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c2a6939f-730c-4a98-9aa9-70db442df0b2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T053321Z&X-Amz-Expires=86400&X-Amz-Signature=8b92f0dcbd7ebe8c19c817472f65da74ccb2a2cc64d9dd0fe1081abdf1d13af4&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" alt="NANUM" width="number" />
+  <img src="https://user-images.githubusercontent.com/109561152/218897445-fdad1c72-92e5-48b7-9089-16c10360c174.png" width="60%" height="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/97ca24ec-5e06-4dec-89dc-ec7357c885ca/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T053413Z&X-Amz-Expires=86400&X-Amz-Signature=8daa2d183f6c5d42eec4a99313b311b2f0f9622709f9ca9818e8c95b4bf9665d&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" alt="NANUM" width="number" />
+- FrontEnd 구성도
+  <img src="https://user-images.githubusercontent.com/109561152/218897522-34d93f87-1c47-4808-a5a4-1b3e68a40e9e.png" width="60%" height="60%"/>
 </p>
-
 <p align="center">
-  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ae5e5767-3459-4653-961f-1430a4762f9a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221110%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221110T053727Z&X-Amz-Expires=86400&X-Amz-Signature=6d32621f9a228eab9e84c824bc24c67d9b51a61bdcac6d7ae0fae702e1fb75a2&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" alt="NANUM" width="number" />
+- BackEnd 구성도
+  <img src="https://user-images.githubusercontent.com/109561152/218897581-3963a079-dc61-4dc1-b8a2-13e11c2eb1fe.png" width="60%" height="60%"/>
 </p>
 
 <br/>
@@ -137,11 +135,8 @@
 
 ##
 
-<p align="center"> <img src = https://user-images.githubusercontent.com/51871037/218688756-2d416071-57fe-4810-8ad5-9890a9fac4c6> </p>
-
-
+<p align="center"> <img src ="https://user-images.githubusercontent.com/109561152/218897247-52a5e523-8cf4-4d52-9a41-03ffa04ecd1b.png" width="60%" height="60%"> </p>
 <br/>
-
 ---
 
 ###  🎞 5. 서비스 소개 
@@ -152,12 +147,11 @@
 
 ##### FrontEnd 주요 버전
 ```cmd
-프론트엔드 주요 버전
 1. react : 18.2.0
 2. next : 12.3.1
-3. axios: 0.27.2
-4. recoil : 0.7.5
-5. mui : 5.10.8
+3. axios : 1.2.2
+4. redux : 8.0.5 
+5. tailwind css : 3.2.4
 6. Visual Studio : 1.71.0
 ```
 
@@ -165,19 +159,15 @@
 ```cmd
 1. JVM : 1.8.0_192
 2. WAS : Tomcat 9.0.65
-3. IntelliJ : IntelliJ IDEA 2021.3.2 (community)
-4. springBootVer : '2.7.4'
-5. Docker : 20.10.17
-6. AWS RDS: 8.0.28
-7. ubuntu: 20.04 LTS
-8. JAVA: 11
-9. 기타 상세 버전 정보
+3. springBootVer : '2.7.4'
+4. JAVA: 11
+. 기타 상세 버전 정보
     - SpringBoot : build 도구 gradle 7.5
 ```
 
 #### DataAnalysis 주요 버전
 ```cmd
-1. Python : 3.8.0
+1. Python : 3.8.15
 2. Tensorflow : 2.9.0
 3. MySQL : 8.0.31
 ```
@@ -186,15 +176,10 @@
 
 ##
 
-#### 2. 서비스 소개 영상
+#### 2. 서비스 시연 영상
 
-[![NANUM 소개 영상](http://img.youtube.com/vi/fQhgvCP8YEs/0.jpg)](https://youtu.be/fQhgvCP8YEs)
+<img src="https://user-images.githubusercontent.com/109561152/218896206-cb1c17a7-e3d4-4367-bcf9-42c0cec6ff80.gif"/>
 
-##
-
-#### 3. 서비스 시연 영상
-
-[![NANUM 시연 영상](http://img.youtube.com/vi/1MCGtIU5ihI/0.jpg)](https://www.youtube.com/watch?v=1MCGtIU5ihI)
 
 <br/>
 
