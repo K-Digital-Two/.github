@@ -170,7 +170,7 @@
 1. Python : 3.8.15
 2. Tensorflow : 2.9.0
 3. MySQL : 8.0.31
-4. 
+4. Scikit-learn : 1.2.1
 ```
 
 <br/>
